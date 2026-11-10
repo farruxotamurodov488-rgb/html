@@ -1,0 +1,33 @@
+.div1{
+    background-color: antiquewhite;
+    border-radius: 15px;
+    height: 500px;
+}
+
+.h{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(51, 164, 230);
+}
+
+.hh{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(51, 164, 230);
+}
+
+.form{
+    width: 200px;   
+    height: 200px;
+    padding-left: 30px;
+    gap: 20px;
+}
+
+.div2{
+    display: flex;
+}
+
+.li{
+    padding-top: 20px;
+    margin-top: 15px;
+    border: 2px solid green;
+    border-radius: 10px;
+}
